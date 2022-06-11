@@ -1,0 +1,51 @@
+
+body{
+    height: 1200px;
+}
+
+
+.nameformat {
+    font-family: 'Yellowtail';
+    color: #809E8C;;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 0px 0px 10px;
+}
+
+.summary{
+    font-family: 'Catamaran';
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0px 0px 10px;
+}
+
+.hero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.inline-block {
+    
+    color: black;
+    display: inline;
+    vertical-align: top;
+    padding: 10px 10px;
+    font-family: 'Catamaran';
+}
+
+.navbar {
+    padding: 1%;
+    text-align: right;
+    padding: 1px 3px;
+    text-decoration: none;
+}
+
+
+img{
+    border-radius: 6.5px;
+    padding: 0px;
+
+}
